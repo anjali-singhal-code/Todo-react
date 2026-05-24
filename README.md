@@ -1,6 +1,6 @@
 # ⚛️ React Todo App
 
-🌐 Live Demo: (Add your live link here)
+🌐 Live Demo: https://todo-react-anjali.netlify.app/
 
 A responsive and interactive Todo Application built using React JS. This project helps users manage daily tasks with features like adding, editing, deleting, and marking tasks as completed.
 
